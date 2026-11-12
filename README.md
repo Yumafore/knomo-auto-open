@@ -1,0 +1,1 @@
+# knomo-auto-open
