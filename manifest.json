@@ -1,0 +1,9 @@
+{
+  "id": "knomo-auto-open",
+  "name": "Knomo Auto Open",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "在 Obsidian 启动时自动打开 Knomo 界面。",
+  "author": "提狐灌饼",
+  "isDesktopOnly": false
+}
